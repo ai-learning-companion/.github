@@ -107,13 +107,3 @@ The system will include a **mobile app** for kids, a **web app** for parents/tea
 - **ai-service** → AI-powered services (chatbot, recommendations, question generation).  
 
 ---
-
-## Next Steps
-- [ ] Define **System Context & Use Case diagrams (C4 L1 + UML)**.  
-- [ ] Create **Container & Component diagrams (C4 L2 + L3)**.  
-- [ ] Draft **ER diagram** for PostgreSQL.  
-- [ ] Define **initial microservices contracts (API endpoints, DTOs)**.  
-- [ ] Start with **Auth & User services** in backend.  
-- [ ] Scaffold **React Native + React projects**.  
-
----
